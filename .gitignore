@@ -63,7 +63,7 @@ Thumbs.db
 /[Ww]eb[Gg][Ll]_[Bb]uild[Ss]/
 
 # Exclude docs folder (for GitHub Pages)
-/docs/
+# /docs/
 
 # Exclude build output directory (adjust if using a different name)
 /[Bb]uild[Oo]utput/
